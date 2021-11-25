@@ -4,8 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.2074074074074074" />
+        <entry key="app/src/main/res/drawable/ic_afrika.xml" value="0.18796296296296297" />
+        <entry key="app/src/main/res/drawable/ic_australiya.xml" value="0.18796296296296297" />
+        <entry key="app/src/main/res/drawable/ic_europe.xml" value="0.18796296296296297" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.18177083333333333" />
+        <entry key="app/src/main/res/layout/activity_second.xml" value="0.25" />
         <entry key="app/src/main/res/layout/item_recycler.xml" value="0.19583333333333333" />
+        <entry key="app/src/main/res/layout/main_recycler.xml" value="0.19583333333333333" />
+        <entry key="app/src/main/res/layout/second_recycler.xml" value="0.19583333333333333" />
       </map>
     </option>
   </component>
